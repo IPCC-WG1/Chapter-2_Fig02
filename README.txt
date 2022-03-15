@@ -22,3 +22,7 @@ IPCC AR6 Chapter 2
 5. Run 'IPCC_Ch2_plot_volc_solar_RF_Final.m'
 
 for help or more information, contact Matthew Toohey, matthew.toohey@usask.ca
+
+https://doi.org/10.5281/zenodo.6355884
+
+
