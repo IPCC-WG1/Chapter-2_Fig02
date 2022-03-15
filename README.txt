@@ -23,6 +23,7 @@ IPCC AR6 Chapter 2
 
 for help or more information, contact Matthew Toohey, matthew.toohey@usask.ca
 
-https://doi.org/10.5281/zenodo.6355884
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6355884.svg)](https://doi.org/10.5281/zenodo.6355884)
+
 
 
